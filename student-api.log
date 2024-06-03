@@ -1,0 +1,7 @@
+INFO: 2024/06/03 14:59:18 main.go:131: Starting server on port 8080
+INFO: 2024/06/03 15:06:59 main.go:131: Starting server on port 8080
+INFO: 2024/06/03 15:11:40 main.go:61: Created student: {218bc7b6-f5ad-4509-b584-1916e8c52da3 John Doe 21 Physics Quantum Mechanics false}
+INFO: 2024/06/03 15:12:33 main.go:97: Retrieved all students
+INFO: 2024/06/03 15:14:39 main.go:80: Retrieved student: {218bc7b6-f5ad-4509-b584-1916e8c52da3 John Doe 21 Physics Quantum Mechanics false}
+INFO: 2024/06/03 15:16:13 main.go:120: Deleted student: {218bc7b6-f5ad-4509-b584-1916e8c52da3 John Doe 21 Physics Quantum Mechanics true}
+INFO: 2024/06/03 15:31:39 main.go:131: Starting server on port 8080
